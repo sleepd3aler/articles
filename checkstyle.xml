@@ -11,6 +11,7 @@
 		<metadata name="net.sf.eclipsecs.core.lastEnabledSeverity" value="inherit"/>
 	</module>
 	<module name="TreeWalker">
+
 		<module name="IllegalImport">
 			<property name="regexp" value="true"/>
 			<property name="illegalPkgs" value=".*\.shaded\..*"/>
